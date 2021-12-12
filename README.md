@@ -1,4 +1,4 @@
 # odin-recipes
-creating my first recipe website
-demonstrating how to link images and websites
-demonstrating listing techniques and paragraph structure 
+<p>creating my first recipe website</p>
+<p>demonstrating how to link images and websites</p>
+<p>demonstrating listing techniques and paragraph structure</p>
